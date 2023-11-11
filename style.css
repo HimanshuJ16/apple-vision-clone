@@ -883,7 +883,7 @@ body {
     height: 90%;
     width: 45%;
     position: relative;
-    background-image: url(./assets/left23.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/design/glass_top__k3b8lzqd1l2m_large.jpg);
 }
 
 #page23>.right23 {
@@ -891,7 +891,7 @@ body {
     height: 90%;
     width: 45%;
     position: relative;
-    background-image: url(./assets/right23.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/design/glass_side__gm4agomrwl2e_large.jpg);
 }
 
 #page24 {
@@ -953,7 +953,7 @@ body {
     transform: translateX(-50%);
     height: 150vh;
     width: 70.5vw;
-    background-image: url(./assets/page26.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/design/light_seal__fo87cv0zkcmm_large.jpg);
 }
 
 #page26-cont>button {
@@ -1065,14 +1065,14 @@ body {
     height: 90%;
     width: 45%;
     position: relative;
-    background-image: url(./assets/left29.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/visionos/scaling_ui__gosi0305um2y_large.jpg);
 }
 
 #page29>.right29 {
     height: 90%;
     width: 45%;
     position: relative;
-    background-image: url(./assets/right29.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/visionos/spatial_interaction__br11mf88bzxy_large.jpg);
 }
 
 #page30 {
@@ -1220,7 +1220,7 @@ body {
     position: relative;
     height: 120vh;
     width: 93.3vw;
-    background-image: url(./assets/page32.jpg);
+    background-image: url(https://www.apple.com/v/apple-vision-pro/a/images/overview/visionos/around_you__bfdlxkwczahe_large.jpg);
 }
 
 #page33 {
